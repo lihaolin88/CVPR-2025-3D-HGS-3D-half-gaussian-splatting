@@ -1,0 +1,1 @@
+# -CVPR-2025-3D-HGS-3D-half-gaussian-splatting
