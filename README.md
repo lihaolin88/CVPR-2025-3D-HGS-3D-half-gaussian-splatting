@@ -1,13 +1,13 @@
 ## 3D-HGS: 3D Half-Gaussian Splatting <br><sub>Official PyTorch Implementation</sub> 
 
-### [[Paper]](https://arxiv.org/abs/2406.02720)  [[Scaffold_HGS]](https://drive.google.com/file/d/1YeyAV2D9E3zGmxkCQwV42FrIFxsew_bE/view?usp=sharing)
+### [[Paper]](https://arxiv.org/abs/2406.02720)  [[Viewer (Coming soon)]]<!--[[Scaffold_HGS]](https://drive.google.com/file/d/1YeyAV2D9E3zGmxkCQwV42FrIFxsew_bE/view?usp=sharing)-->
 
 This repo contains the official implementation for the paper "3D-HGS: 3D-HGS: 3D Half-Gaussian Splatting". Our work proposes to employ 3D Half-Gaussian(3D-HGS) kernels, which can be used as a plug-and-play kernel for Gaussian Splatting-related works. Our experiments demonstrate their capability to improve the performance of current 3D-GS related methods and achieve state-of-the-art rendering performance on various datasets without compromising rendering speed.
 
 <img width="1200" alt="3DHGS" src="https://github.com/lihaolin88/3D-Half-Gaussian-Splatting/assets/50398783/66948147-5ef4-49b8-bd30-01082702e39f">
 
 ## Update
-07/31/2024: there is a bug in ./scene/gaussian_splatting.py line 193, it will switch the network to finetune mode and decrease the performance if you train from scratch. We fix it today.
+<!--07/31/2024: there is a bug in ./scene/gaussian_splatting.py line 193, it will switch the network to finetune mode and decrease the performance if you train from scratch. We fix it today.-->
 
 ## Step-by-step Tutorial
 Video may comimg in the future
