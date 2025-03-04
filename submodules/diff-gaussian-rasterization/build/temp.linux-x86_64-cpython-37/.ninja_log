@@ -1,0 +1,16 @@
+# ninja log v5
+1	1547	1729360755642202459	/data/haolin/3D_half_newest_fast/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/forward.o	18e37fd17d147ab8
+0	1622	1729360755718200953	/data/haolin/3D_half_newest_fast/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/backward.o	e86328da995871d2
+1	6450	1729360760542105378	/data/haolin/3D_half_newest_fast/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/rasterizer_impl.o	8341c258069de975
+1	18259	1729360772333871900	/data/haolin/3D_half_newest_fast/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/ext.o	cf21e5f941fb521
+1	40690	1729360794773428163	/data/haolin/3D_half_newest_fast/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/rasterize_points.o	c00d76666de2357
+9	1593	1729365215542149784	/data/haolin/3D_half_newest_fast/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/forward.o	18e37fd17d147ab8
+10	1596	1729369040767079801	/data/haolin/3D_half_newest_fast/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/forward.o	18e37fd17d147ab8
+11	1590	1729370021877262154	/data/haolin/3D_half_newest_fast/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/forward.o	18e37fd17d147ab8
+12	1594	1729372538495917106	/data/haolin/3D_half_newest_fast/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/forward.o	18e37fd17d147ab8
+11	1592	1729372832206734783	/data/haolin/3D_half_newest_fast/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/forward.o	18e37fd17d147ab8
+12	1582	1729373045638897686	/data/haolin/3D_half_newest_fast/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/forward.o	18e37fd17d147ab8
+11	1690	1729622133230217463	/data/haolin/3D_half_newest_fast/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/forward.o	18e37fd17d147ab8
+11	1703	1729622133246217150	/data/haolin/3D_half_newest_fast/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/backward.o	e86328da995871d2
+11	1595	1729627723278495371	/data/haolin/3D_half_newest_fast/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/forward.o	18e37fd17d147ab8
+11	1658	1729627723338494259	/data/haolin/3D_half_newest_fast/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/backward.o	e86328da995871d2
