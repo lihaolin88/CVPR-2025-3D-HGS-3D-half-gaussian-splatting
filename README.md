@@ -1,4 +1,4 @@
-## 3D-HGS: 3D Half-Gaussian Splatting <br><sub>Official PyTorch Implementation</sub> 
+## [CVPR2025] 3D-HGS: 3D Half-Gaussian Splatting <br><sub>Official PyTorch Implementation</sub> 
 
 ### [[Paper]](https://arxiv.org/abs/2406.02720)  [[Viewer (Coming soon)]]<!--[[Scaffold_HGS]](https://drive.google.com/file/d/1YeyAV2D9E3zGmxkCQwV42FrIFxsew_bE/view?usp=sharing)-->
 
