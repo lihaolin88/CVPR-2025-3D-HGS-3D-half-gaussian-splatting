@@ -1,6 +1,6 @@
 ## [CVPR2025] 3D-HGS: 3D Half-Gaussian Splatting <br><sub>Official PyTorch Implementation</sub> 
 
-### [[Paper]](https://arxiv.org/abs/2406.02720)  [[Viewer (Coming soon)]]<!--[[Scaffold_HGS]](https://drive.google.com/file/d/1YeyAV2D9E3zGmxkCQwV42FrIFxsew_bE/view?usp=sharing)-->
+### [[Project Page]](https://lihaolin88.github.io/CVPR-2025-3DHGS)  [[Paper]](https://arxiv.org/abs/2406.02720)  [[Viewer (Coming soon)]]<!--[[Scaffold_HGS]](https://drive.google.com/file/d/1YeyAV2D9E3zGmxkCQwV42FrIFxsew_bE/view?usp=sharing)-->
 
 This repo contains the official implementation for the paper "3D-HGS: 3D-HGS: 3D Half-Gaussian Splatting". Our work proposes to employ 3D Half-Gaussian(3D-HGS) kernels, which can be used as a plug-and-play kernel for Gaussian Splatting-related works. Our experiments demonstrate their capability to improve the performance of current 3D-GS related methods and achieve state-of-the-art rendering performance on various datasets without compromising rendering speed.
 
